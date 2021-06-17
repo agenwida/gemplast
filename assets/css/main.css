@@ -550,10 +550,15 @@ mark, .mark {
 @media (min-width: 1201px) {
     .header__left {
         display: block;
+
     }
 
     .header__social {
         text-align: right;
+    }
+    #ph{
+        visibility: hidden;
+
     }
 }
 
